@@ -1,0 +1,6 @@
+<snippet>
+	<description>Assert String ends with</description>
+	<content><![CDATA[assert_string_ends_with("${1:ends_with}", ${0:actual_string});]]></content>
+    <tabTrigger>assew</tabTrigger>
+    <scope>source.c</scope>
+</snippet>
