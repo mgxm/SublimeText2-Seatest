@@ -1,0 +1,6 @@
+<snippet>
+	<description>Assert String doesnt contain</description>
+	<content><![CDATA[assert_string_doesnt_contain("${1:doesnt_contain}", ${0:actual_string});]]></content>
+    <tabTrigger>assdc</tabTrigger>
+    <scope>source.c</scope>
+</snippet>
