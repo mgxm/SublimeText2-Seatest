@@ -1,0 +1,6 @@
+<snippet>
+	<description>Assert Fail</description>
+	<content><![CDATA[assert_fail(${0:message});]]></content>
+    <tabTrigger>asfail</tabTrigger>
+    <scope>source.c</scope>
+</snippet>
