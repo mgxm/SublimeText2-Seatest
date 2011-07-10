@@ -1,0 +1,12 @@
+<snippet>
+	<description>New Unit Test Fixture Method</description>
+	<content><![CDATA[void test_fixture_${1:function}() 
+{
+    test_fixture_start();
+    run_test(test_${1:test_to_run});
+    test_fixture_end(); 
+}
+]]></content>
+	<tabTrigger>fixture</tabTrigger>
+	<scope>source.c</scope>
+</snippet>
