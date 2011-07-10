@@ -1,0 +1,6 @@
+<snippet>
+	<description>Assert Ulong equal</description>
+	<content><![CDATA[assert_ulong_equal(${1:expected}, ${0:actual});]]></content>
+    <tabTrigger>asuq</tabTrigger>
+    <scope>source.c</scope>
+</snippet>
