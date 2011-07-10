@@ -1,0 +1,6 @@
+<snippet>
+	<description>Assert Float equal</description>
+	<content><![CDATA[assert_float_equal(${1:expected_float}, ${0:actual_float});]]></content>
+    <tabTrigger>asfe</tabTrigger>
+    <scope>source.c</scope>
+</snippet>
