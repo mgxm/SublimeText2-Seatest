@@ -1,0 +1,6 @@
+<snippet>
+	<description>Assert Int equal</description>
+	<content><![CDATA[assert_int_equal(${1:1}, ${0:1});]]></content>
+    <tabTrigger>asie</tabTrigger>
+    <scope>source.c</scope>
+</snippet>
