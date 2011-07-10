@@ -1,0 +1,6 @@
+<snippet>
+	<description>Assert Bit mask matches</description>
+	<content><![CDATA[assert_bit_mask_matches(${1:value}, ${0:mask});]]></content>
+    <tabTrigger>asbit</tabTrigger>
+    <scope>source.c</scope>
+</snippet>
