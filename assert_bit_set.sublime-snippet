@@ -1,0 +1,6 @@
+<snippet>
+	<description>Assert Bit set</description>
+	<content><![CDATA[assert_bit_set(${1:bit_number}, ${0:value});]]></content>
+    <tabTrigger>asbit</tabTrigger>
+    <scope>source.c</scope>
+</snippet>
