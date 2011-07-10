@@ -1,0 +1,10 @@
+<snippet>
+	<description>New Unit Test Method</description>
+	<content><![CDATA[void test_${1:function}() 
+{
+    ${0:/* asserts */}
+}
+]]></content>
+	<tabTrigger>test</tabTrigger>
+	<scope>source.c</scope>
+</snippet>
