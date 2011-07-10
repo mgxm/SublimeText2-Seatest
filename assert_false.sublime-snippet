@@ -1,0 +1,6 @@
+<snippet>
+	<description>Assert False</description>
+	<content><![CDATA[assert_false(${0:1 == 2});]]></content>
+    <tabTrigger>asf</tabTrigger>
+    <scope>source.c</scope>
+</snippet>
