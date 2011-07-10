@@ -1,0 +1,6 @@
+<snippet>
+	<description>Assert Double equal</description>
+	<content><![CDATA[assert_double_equal(${1:expected_double}, ${0:actual_double});]]></content>
+    <tabTrigger>asde</tabTrigger>
+    <scope>source.c</scope>
+</snippet>
